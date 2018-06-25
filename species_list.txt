@@ -2,4 +2,5 @@ Dwarf
 Elf
 Half-Elf
 Halfling
+Half-Orc
 Human
