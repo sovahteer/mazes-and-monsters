@@ -1,0 +1,8 @@
+Bard
+Cleric
+Druid
+Fighter
+Paladin
+Ranger
+Rogue
+Wizard
